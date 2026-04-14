@@ -17,7 +17,7 @@ def convert(fahrenheit):
 print("==== Temperature converter ====")
 
 # ask user for input 
-fahrenheit = float(input(input("Enter temperature in fahrenheit:"))
+fahrenheit = float(input("Enter temperature in fahrenheit:"))
 
 # call the function
 celcius = convert(fahrenheit)
